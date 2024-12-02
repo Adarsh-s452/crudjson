@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": "55",
+      "name": "adarsh ",
+      "designation": "developer",
+      "salary": "4555555",
+      "email": "a@gmail.com"
+    },
+    {
+      "id": "77",
+      "name": "athul",
+      "designation": "employee",
+      "salary": "50000",
+      "email": "athul@gmail.com"
+    },
+    {
+      "id": "444",
+      "name": "aswin",
+      "designation": "tester",
+      "salary": "56700",
+      "email": "aswin@gmail.com"
+    }
+  ]
+}
